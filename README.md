@@ -1,1 +1,1 @@
-# spa_ssr
+# Webpack configs for spa react+scss
